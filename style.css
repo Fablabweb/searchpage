@@ -189,6 +189,14 @@ header {
         height: 100px;
         border-radius: 50%;
     }
+
+    .searchBtn {
+        padding: 5px 20px;
+        text-align: center;
+        border-radius: 20px;
+        font-size: 10px;
+        border: 1px solid grey;
+    }
 }
 
 /*animation*/
