@@ -184,6 +184,8 @@ header {
     }
 }
 
+/*animation*/
+
 @keyframes title {
     0% {
         background-color: #333333;
