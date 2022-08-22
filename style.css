@@ -52,7 +52,6 @@ header {
 }
 
 .search-bar .query:focus {
-    padding: 5px 50px;
     background-color: rgba(153, 240, 255, 0.5);
     color: black;
     font-weight: 500;
